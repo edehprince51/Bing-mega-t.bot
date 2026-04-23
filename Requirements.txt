@@ -1,0 +1,7 @@
+python-telegram-bot
+pandas-ta
+MetaTrader5
+binance-connector
+python-dotenv
+websockets
+requests
